@@ -1,0 +1,188 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    width: 100%;
+    height: 75px;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    z-index: 1000;
+}
+
+.icon .logo {
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.menu ul li {
+    margin: 0 20px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+.menu ul li a:hover {
+    color: #ff7200;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.srch {
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #ff7200;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+}
+
+.btn {
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.btn:hover {
+    color: #000;
+}
+
+
+.section {
+    padding: 300px 40px;
+    height: 20vh;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 50%);
+    color: #ffcc00;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+}
+
+#content {
+    background: url('Images/4.jpg') center/cover no-repeat;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+}
+
+header .logo h1 {
+    margin: 0;
+    color: #FFC107;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu-section {
+    padding: 200px;
+    text-align: left;
+    
+}
+
+#drinks {
+    background: url('Images/5.jpg') center/cover no-repeat;
+}
+#kottu {
+    background: url('Images/5.jpg') center/cover no-repeat;
+}
+
+#dessert {
+    background: url('Images/75.jpg') center/cover no-repeat;
+}
+
+#curry {
+    background: url('Images/75.jpg') center/cover no-repeat;
+}
+
+.menu-section h2 {
+    color: #FFC107;
+    border-bottom: 1px solid #FFC107;
+    display: inline-block;
+    margin: bottom 200px;
+    font-size: 60px;
+    font-family: 'Times New Roman';
+}
+
+.menu-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-size: 40px;
+}
+
+.menu-item {
+    width: 45%;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.menu-item h3 {
+    color: #FFC107;
+    font-family: 'Times New Roman';
+}
+
+.menu-item p {
+    margin: 5px 0;
+    font-family: 'Times New Roman';
+}
+
+footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+
+   
+
+
+
+
+
+
