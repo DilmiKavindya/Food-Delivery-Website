@@ -27,8 +27,7 @@ The project demonstrates a basic online food ordering experience including brows
 
 ---
 
-## 🚀 How to Run the Project
+### 📥 Clone the Repository
 
-1. **Clone the project**
-   ```bash
-   git clone https://github.com/DilmiKavindya/Food-Delivery-Website.git
+```bash
+git clone https://github.com/DilmiKavindya/LibraryManagementSystem.git
