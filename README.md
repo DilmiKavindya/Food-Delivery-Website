@@ -13,16 +13,8 @@ The project demonstrates a basic online food ordering experience including brows
 - Menu section showcasing food items
 - Cart functionality with selected item preview
 - Order confirmation popup
-- Footer with contact and social links
 
 ### ✅ Backend (Simulated using JavaScript)
-- Add to cart functionality
-- Remove items from cart
-- Calculate total price
-- Simulate order placement
-- Dynamic content rendering (menu items, order details)
-
-> ⚠️ **Note**: This project does not use a real server or database. All backend-like behavior is simulated with JavaScript in the browser.
 
 ---
 
@@ -31,9 +23,7 @@ The project demonstrates a basic online food ordering experience including brows
 | Layer     | Technologies Used      |
 |-----------|------------------------|
 | Frontend  | HTML5, CSS3            |
-| Backend   | JavaScript (Vanilla JS - simulated logic) |
+| Backend   | JavaScript |
 
 ---
-
-## 📁 Project Structure
 
