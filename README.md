@@ -22,7 +22,7 @@ The project demonstrates a basic online food ordering experience including brows
 
 | Layer     | Technologies Used      |
 |-----------|------------------------|
-| Frontend  | HTML5, CSS3            |
+| Frontend  | HTML, CSS           |
 | Backend   | JavaScript |
 
 ---
