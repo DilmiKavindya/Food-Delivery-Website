@@ -16,7 +16,7 @@ The project demonstrates a basic online food ordering experience including brows
 
 ### ✅ Backend (Simulated using JavaScript)
 
----
+-------------------------------------------
 
 ## 🛠️ Tech Stack
 
